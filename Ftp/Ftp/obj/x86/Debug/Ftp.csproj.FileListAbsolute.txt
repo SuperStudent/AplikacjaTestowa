@@ -1,0 +1,10 @@
+C:\Users\PW\Desktop\Ftp\Ftp\bin\Debug\Ftp.exe
+C:\Users\PW\Desktop\Ftp\Ftp\bin\Debug\Ftp.pdb
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Debug\Ftp.exe
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Debug\Ftp.pdb
+C:\Users\PW\Documents\Studia II\Sem2\Sieci\Ftp\Ftp\obj\x86\Debug\Ftp.exe
+C:\Users\PW\Documents\Studia II\Sem2\Sieci\Ftp\Ftp\obj\x86\Debug\Ftp.pdb
+C:\Users\PW\Documents\Studia II\Sem2\Sieci\Ftp\Ftp\bin\Debug\Ftp.exe
+C:\Users\PW\Documents\Studia II\Sem2\Sieci\Ftp\Ftp\bin\Debug\Ftp.pdb
+C:\Users\PW\Documents\Studia II\Sem2\Sieci\Ftp\Ftp\obj\x86\Debug\ResolveAssemblyReference.cache

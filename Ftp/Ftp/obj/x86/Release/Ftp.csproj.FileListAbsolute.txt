@@ -1,0 +1,5 @@
+C:\Users\PW\Desktop\Ftp\Ftp\bin\Release\Ftp.exe
+C:\Users\PW\Desktop\Ftp\Ftp\bin\Release\Ftp.pdb
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Release\Ftp.exe
+C:\Users\PW\Desktop\Ftp\Ftp\obj\x86\Release\Ftp.pdb
