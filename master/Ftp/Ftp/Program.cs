@@ -26,7 +26,7 @@ namespace Ftp {
             }
 
             Console.WriteLine("Gotowe.");
-            Console.ReadKey();
+            
         }
     }
 }
